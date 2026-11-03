@@ -1,5 +1,4 @@
 # Emotional-Pet
-# Emotional Pet
 
 ## Project Overview
 
