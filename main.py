@@ -1,6 +1,4 @@
-Simulator stopped
-Search...
-1234567891011121314151617181920212223242526
+
 # Button A represents the feeding action.
 # It decreases hunger and ensures the value does not drop below 0.
 
